@@ -1,0 +1,16 @@
+body{
+  background-color :#ffe5e2
+;
+}
+
+h1 {
+  color: Black;
+  font-style: italic;
+}
+
+tr:hover {background-color: white;}
+
+th {
+  background-color: #04AA6D;
+  color: white;
+}
